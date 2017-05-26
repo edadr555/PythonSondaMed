@@ -12,7 +12,7 @@ Temas
 + Strings y Salida en Consola
 + Condiciones y Control del flujo
 
-Materia de estudio
+Material de estudio
 ------------------
 https://github.com/edadr555/PythonSondaMed/blob/master/PytonSondaMed/docs/clase1/Curso%20de%20Python.pptx
 
