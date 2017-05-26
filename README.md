@@ -14,8 +14,9 @@ Temas
 
 Materia de estudio
 ------------------
+https://github.com/edadr555/PythonSondaMed/blob/master/PytonSondaMed/docs/clase1/Curso%20de%20Python.pptx
 
 Ejercicios
 ----------
 
-
+https://github.com/edadr555/PythonSondaMed/blob/master/PytonSondaMed/docs/clase1/EjerciciosClase1.txt
