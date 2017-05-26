@@ -1,8 +1,9 @@
 # PythonSondaMed
 
-  Este repositorio se crea con el fin de estudiar el lenguaje Python. Para ello vamos a hacer unas clases presenciales las cuales se hara de una forma particitiva por todos lo integrantes. 
+Este repositorio se crea con el fin de estudiar el lenguaje Python. Para ello vamos a hacer unas clases presenciales las cuales se hará de una forma participativa por todos los integrantes.
 
-  Acontinuacion se enumeran cada una de las clases, donde se tiene una documentacion inicial la cual debe ser leida y entendida antes de clase y luego se desarrollaran ejercicios para afianzar los conocimientos adquiridos:
+A continuación se enumeran cada una de las clases, donde se tiene una documentación inicial la cual debe ser leída y entendida antes de clase y luego se desarrollaran ejercicios para afianzar los conocimientos adquiridos:
+
 
 Calse 1
 ========
