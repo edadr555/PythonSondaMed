@@ -1,0 +1,95 @@
+1	Escribir 5 identificadores mal nombrados
+2	Escribir 5 identificadores bien nombrados
+3	Escribir un identificador bien largo, ¿Que sucede?
+4	Escribir una declaracion simple
+5	Escribir una declaracion de multiples lineas
+6	Escribir una declaracion de multiples lineas con \
+7	Escribir una declaracion de multiples lineas con (
+8	Escribir una declaracion de multiples lineas con [
+9	Ecribir varias declaraciones en una misma linea
+10	Escribir un bloque y explicar que es lo que sucede en Python
+11	Escribir un codigo donde se ignore la identacion
+12	Escribir comentario secillos
+13	Escribir cometario multilinea
+14	Escribir 3 variables diferentes con diferente tipo
+15	Escribir 2 varibles con declaracion de tipo
+16	Asignar el mismo valor a una variable
+17	Asignar valores diferentes a tres variables en una misma linea
+18	Escribir 3 variables int con diferentes valores
+19	Escribir 3 variables float con diferentes valores
+20	Escribir 3 variables long con diferentes valores
+21	Escribir las 4 formas de crear un string
+22	Crear un String y acceder al elemento 6
+23	Crear un String y acceder a un elemento generando un desbordamiento
+24	Crear un String y modificar un elemento de ella
+25	Crear un String y mostrar un rango de ella
+26	Crear una lista y acceder al elemento 2
+27	Crear una lista y acceder a un elemento generando un desbordamiento
+28	Crear una lista y modificar un elemento de ella
+29	Crear una lista y mostrar el rango 2 - 5 de ella
+30	Imprima una lista
+31	Crear una lista con diferentes tipos de datos
+32	Crear un set y acceder al elemento 4
+33	Crear un set y acceder a un elemento generando un desbordamiento
+34	Crear un set y modificar un elemento de ella
+35	Crear un set y mostrar el rango 0 - 3 de ella
+36	Imprima un set
+37	Crear una tupla y acceder al elemento 6
+38	Crear una tupla y acceder a un elemento generando un desbordamiento
+39	Crear una tupla y modificar un elemento de ella
+40	Crear una tupla y mostrar un rango de ella
+41	Imprima una tupla
+42	Crear un Diccionario y acceder al elemento key m3
+43	Crear un Diccionario y acceder a un elemento generando un desbordamiento
+44	Crear un Diccionario y modificar un elemento de ella
+45	Imprima un set
+46	Convertir un float a int
+47	Convertir un int a float
+48	Convertir un String a float
+49	Convertir un String a int
+50	Convertir un int a String
+51	Convertir una tupla a un set
+52	Convertir un set a lista
+53	Convertir un lista una tupla
+54	Convertir una lista a un diccionario
+55	Acceder al elemento -3 de un string
+56	Acceder a los elementos 5 - 7 de una string
+57	Reemplazar el elemento 4 de un estring
+58	Eliminar el elemento 2 de un string
+59	Imprimir la conatenacion de dos string
+60	Imprimir la concatenacion de dos string sin el operador +
+61	Imprimir 3 veces un string sin el operador +
+62	Concatenar dos string en multilinea
+63	Imprimir la cantdad de letras de un string mediante for
+64	Verificar si exixte una cadena en otra cadena
+65	imprimir la lingitud de un string
+66	Escapar en carácter '
+67	Escapar el cacter "
+68	Escapar el carácter ' con \
+69	Escapar el carácter ' sin \
+70	Imprimir un string con formato de 2 parametros
+71	Imprimir un string con formato de 2 parametros float
+72	Imprimir un string con formato de 2 parametros int
+73	Imprimir un string con formato de 3 parametros int con formato #.##
+74	Imprimir un string con formato de claves de 2 parametros
+75	Imprimir en mayuscula un string que esta en en minuscula
+76	Imprimir en minuscula un string que esta en en mayuscula
+77	Bsucar un sunstring
+78	Hacer un split de un string e imprimir el emento 2
+79	Reemplazar un sub string con otra cadena
+80	Copiar un if secillo
+81	Copiar un if else
+82	Copiar en if elif else
+83	Copiar un Switch
+84	Copiar un if anidado
+85	Imprimir la suma de una lista de enteros
+86	Crear un rango
+87	Crear una lista basada en un rango
+88	Crear una lista basada en un rango 4 -8
+89	Crear una lista basada en un rango que empiece en 5 con incrementos de 4 hasta 25
+90	Crear un for else
+91	Crear un While sencillo
+92	Crear un While else
+93	Hacer un break a un while
+94	Hacer un continue cuando el elemento de la lista sea par
+95	hacer un while con sentencia pass
